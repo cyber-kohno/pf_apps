@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pf_apps/v1.7.1/static/css/main.50191b77.chunk.css",
-    "main.js": "/pf_apps/v1.7.1/static/js/main.b0b12adb.chunk.js",
-    "main.js.map": "/pf_apps/v1.7.1/static/js/main.b0b12adb.chunk.js.map",
-    "runtime-main.js": "/pf_apps/v1.7.1/static/js/runtime-main.833ff1ed.js",
-    "runtime-main.js.map": "/pf_apps/v1.7.1/static/js/runtime-main.833ff1ed.js.map",
-    "static/js/2.77b351b4.chunk.js": "/pf_apps/v1.7.1/static/js/2.77b351b4.chunk.js",
-    "static/js/2.77b351b4.chunk.js.map": "/pf_apps/v1.7.1/static/js/2.77b351b4.chunk.js.map",
-    "static/js/3.98a427ca.chunk.js": "/pf_apps/v1.7.1/static/js/3.98a427ca.chunk.js",
-    "static/js/3.98a427ca.chunk.js.map": "/pf_apps/v1.7.1/static/js/3.98a427ca.chunk.js.map",
-    "index.html": "/pf_apps/v1.7.1/index.html",
-    "static/css/main.50191b77.chunk.css.map": "/pf_apps/v1.7.1/static/css/main.50191b77.chunk.css.map",
-    "static/js/2.77b351b4.chunk.js.LICENSE.txt": "/pf_apps/v1.7.1/static/js/2.77b351b4.chunk.js.LICENSE.txt"
+    "main.css": "/pf_apps/v1.7.2/static/css/main.50191b77.chunk.css",
+    "main.js": "/pf_apps/v1.7.2/static/js/main.b0b12adb.chunk.js",
+    "main.js.map": "/pf_apps/v1.7.2/static/js/main.b0b12adb.chunk.js.map",
+    "runtime-main.js": "/pf_apps/v1.7.2/static/js/runtime-main.833ff1ed.js",
+    "runtime-main.js.map": "/pf_apps/v1.7.2/static/js/runtime-main.833ff1ed.js.map",
+    "static/js/2.77b351b4.chunk.js": "/pf_apps/v1.7.2/static/js/2.77b351b4.chunk.js",
+    "static/js/2.77b351b4.chunk.js.map": "/pf_apps/v1.7.2/static/js/2.77b351b4.chunk.js.map",
+    "static/js/3.98a427ca.chunk.js": "/pf_apps/v1.7.2/static/js/3.98a427ca.chunk.js",
+    "static/js/3.98a427ca.chunk.js.map": "/pf_apps/v1.7.2/static/js/3.98a427ca.chunk.js.map",
+    "index.html": "/pf_apps/v1.7.2/index.html",
+    "static/css/main.50191b77.chunk.css.map": "/pf_apps/v1.7.2/static/css/main.50191b77.chunk.css.map",
+    "static/js/2.77b351b4.chunk.js.LICENSE.txt": "/pf_apps/v1.7.2/static/js/2.77b351b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.833ff1ed.js",
