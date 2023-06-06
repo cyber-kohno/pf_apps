@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pf_apps/v1.8.1/static/css/main.a69588b8.chunk.css",
+    "main.js": "/pf_apps/v1.8.1/static/js/main.3c2982d0.chunk.js",
+    "main.js.map": "/pf_apps/v1.8.1/static/js/main.3c2982d0.chunk.js.map",
+    "runtime-main.js": "/pf_apps/v1.8.1/static/js/runtime-main.733f6e3a.js",
+    "runtime-main.js.map": "/pf_apps/v1.8.1/static/js/runtime-main.733f6e3a.js.map",
+    "static/js/2.d2e51ebf.chunk.js": "/pf_apps/v1.8.1/static/js/2.d2e51ebf.chunk.js",
+    "static/js/2.d2e51ebf.chunk.js.map": "/pf_apps/v1.8.1/static/js/2.d2e51ebf.chunk.js.map",
+    "static/js/3.77e97c90.chunk.js": "/pf_apps/v1.8.1/static/js/3.77e97c90.chunk.js",
+    "static/js/3.77e97c90.chunk.js.map": "/pf_apps/v1.8.1/static/js/3.77e97c90.chunk.js.map",
+    "index.html": "/pf_apps/v1.8.1/index.html",
+    "static/css/main.a69588b8.chunk.css.map": "/pf_apps/v1.8.1/static/css/main.a69588b8.chunk.css.map",
+    "static/js/2.d2e51ebf.chunk.js.LICENSE.txt": "/pf_apps/v1.8.1/static/js/2.d2e51ebf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.733f6e3a.js",
+    "static/js/2.d2e51ebf.chunk.js",
+    "static/css/main.a69588b8.chunk.css",
+    "static/js/main.3c2982d0.chunk.js"
+  ]
+}
