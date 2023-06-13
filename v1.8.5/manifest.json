@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://cyber-kohno.github.io/pf_apps/v1.8.5/sp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
