@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pf_apps/gpu/static/css/main.ce4876f6.chunk.css",
+    "main.js": "/pf_apps/gpu/static/js/main.b516da65.chunk.js",
+    "main.js.map": "/pf_apps/gpu/static/js/main.b516da65.chunk.js.map",
+    "runtime-main.js": "/pf_apps/gpu/static/js/runtime-main.76305348.js",
+    "runtime-main.js.map": "/pf_apps/gpu/static/js/runtime-main.76305348.js.map",
+    "static/js/2.8afdd739.chunk.js": "/pf_apps/gpu/static/js/2.8afdd739.chunk.js",
+    "static/js/2.8afdd739.chunk.js.map": "/pf_apps/gpu/static/js/2.8afdd739.chunk.js.map",
+    "static/js/3.7f3a6636.chunk.js": "/pf_apps/gpu/static/js/3.7f3a6636.chunk.js",
+    "static/js/3.7f3a6636.chunk.js.map": "/pf_apps/gpu/static/js/3.7f3a6636.chunk.js.map",
+    "index.html": "/pf_apps/gpu/index.html",
+    "static/css/main.ce4876f6.chunk.css.map": "/pf_apps/gpu/static/css/main.ce4876f6.chunk.css.map",
+    "static/js/2.8afdd739.chunk.js.LICENSE.txt": "/pf_apps/gpu/static/js/2.8afdd739.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76305348.js",
+    "static/js/2.8afdd739.chunk.js",
+    "static/css/main.ce4876f6.chunk.css",
+    "static/js/main.b516da65.chunk.js"
+  ]
+}
