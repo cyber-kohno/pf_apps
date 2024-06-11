@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pf_apps/gpu/static/css/main.ce4876f6.chunk.css",
-    "main.js": "/pf_apps/gpu/static/js/main.55a5c4e5.chunk.js",
-    "main.js.map": "/pf_apps/gpu/static/js/main.55a5c4e5.chunk.js.map",
+    "main.js": "/pf_apps/gpu/static/js/main.ba08215f.chunk.js",
+    "main.js.map": "/pf_apps/gpu/static/js/main.ba08215f.chunk.js.map",
     "runtime-main.js": "/pf_apps/gpu/static/js/runtime-main.76305348.js",
     "runtime-main.js.map": "/pf_apps/gpu/static/js/runtime-main.76305348.js.map",
     "static/js/2.17028a46.chunk.js": "/pf_apps/gpu/static/js/2.17028a46.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.76305348.js",
     "static/js/2.17028a46.chunk.js",
     "static/css/main.ce4876f6.chunk.css",
-    "static/js/main.55a5c4e5.chunk.js"
+    "static/js/main.ba08215f.chunk.js"
   ]
 }
